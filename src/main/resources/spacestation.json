@@ -1,0 +1,22 @@
+{
+  "name": "Peace and harmony",
+  "inhabitants": "124938",
+  "spaceships": [
+    {
+      "id": 1,
+      "name": "Hawk",
+      "crew": 20
+    },
+    {
+      "id": 2,
+      "name": "Eagle",
+      "crew" : 23
+    },
+    {
+      "id": 3,
+      "name": "Swan",
+      "crew": 123
+    }
+  ]
+
+}
